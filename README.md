@@ -53,7 +53,7 @@ A documentação completa da nossa API está disponível através do Swagger. Pa
 
 ## 📞 Contato
 
-Tem alguma pergunta, sugestão ou recomendação de manwha? Fale com a gente em [ebeatrizkaroline@gmail.com](mailto:ebeatrizkaroline@gmail.com). Estamos ansiosos para ouvir sua opinião!
+Tem alguma pergunta, sugestão ou recomendação para nossa API? Fale com a gente em [ebeatrizkaroline@gmail.com](mailto:ebeatrizkaroline@gmail.com). Estamos ansiosos para ouvir sua opinião!
 
 ---
 
